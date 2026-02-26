@@ -6,14 +6,14 @@
 
 ## About Me
 
-Backend engineer and Master's student in **International Software Systems Science** at Otto-Friedrich-Universität Bamberg. Originally from Uzbekistan — I build software that solves problems for Central Asian markets while studying in Germany.
+Backend engineer and Master's student in **International Software Systems Science** at Otto-Friedrich-Universität Bamberg. Originally from Uzbekistan - I build software that solves problems for Central Asian markets while studying in Germany.
 
 Currently focused on turning ideas into real products:
 
-- 🥡 **[Quticha](https://github.com/Darle19)** — Food surplus marketplace for Uzbekistan (think Too Good To Go). Laravel API + Telegram bot + Docker.
-- 🏠 **MoveIn.uz** — Real estate platform for the Uzbek market
-- 📱 **Balance+** — Telecom subscription management tool
-- 🎨 **Color Analysis Bot** — Computer vision bot using peer-reviewed color theory research
+- 🥡 **[Quticha](https://github.com/Darle19)** - Food surplus marketplace for Uzbekistan (think Too Good To Go). Laravel API + Telegram bot + Docker.
+- 🏠 **MoveIn.uz** - Real estate platform for the Uzbek market
+- 📱 **Balance+** - Telecom subscription management tool
+- 🎨 **Color Analysis Bot** - Computer vision bot using peer-reviewed color theory research
 
 I care about clean architecture, proper testing, and shipping things that actually work in production.
 
